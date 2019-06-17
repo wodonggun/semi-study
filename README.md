@@ -8,22 +8,17 @@
 
 📝
 
-:books:
+
 
 
 ✔️
 
-:green_check_mark:
-
-:coffee:
 
 ☕️
 
 
-:exclamation:
+❔
+❕
 
 
-:question:
-
-
-:Heavy Check Mark:
+:white exclamation:

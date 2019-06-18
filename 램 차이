@@ -1,0 +1,41 @@
+# 휘발성 메모리 vs 비휘발성 메모리
+
+비휘발성 : ROM, NAND  
+휘발성 : RAM, DRAM, SRAM, SD RAM  
+
+
+# SRAM (Static Random Access Memory)
+
+속도가 DRAM에 비해 빠르고, 가격이 비싸다.  
+주로 CPU의 레지스터나 캐쉬메모리에 사용된다.  
+`캐쉬 메모리란? - CPU의 레지스터와 주메모리(DRAM) 사이에 임시로 저장하는 메모리로, 두 메모리간 속도차이를 줄여줌.`  
+
+
+
+
+# DRAM (Dynamic Random Access memory)
+
+
+
+# SDRAM
+
+# DDR SDRAM(Double Data Rate / Syncronize Dynamic Random Access Memory)
+
+
+
+# NAND
+
+
+# NOR
+
+병렬 구조이기 때문에 임의의 셀에 접근 가능함(Random Access)
+
+
+# NAND vs NOR
+
+NAND = 집적도가 높고, 가격이 쌈
+NOR = 속도가 빠르지만, 집적도가 낮고, 가격이 비쌈.
+
+스마트폰 = NOR (CPU와 직접 연결되어 이미지 관련 데이터를 빠르게 처리)
+USB, SSD = NAND 
+
